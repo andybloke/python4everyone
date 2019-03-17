@@ -1,3 +1,5 @@
+# this is a comment
+
 color = ["red", 'red' ,'yellow', "green", "blue", "pink", "black", "purple", "red", "indigo"]
 print(color)
 selected_list = color[2:5]
