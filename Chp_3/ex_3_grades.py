@@ -16,4 +16,4 @@ try:
 			grade = "A"
 		print("Your grade is",grade)
 except:
-	print("Please enter a number")
+	print("Error: Please enter a number")
