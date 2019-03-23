@@ -1,3 +1,5 @@
+# the lumberjack song
+
 def repeat_lyrics():
 	print_lyrics()
 	print_lyrics()
