@@ -2,7 +2,7 @@ score = input("Please enter a score between 0.0 and 0.1:\n>")
 try:
 	score = float(score)
 	if score < 0 or score > 1:
-		print("Error, out of range")
+		print("Error: out of range")
 	else:
 		if score < 0.6:
 			grade = "F"
